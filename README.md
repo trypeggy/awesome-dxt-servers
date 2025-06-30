@@ -6,6 +6,7 @@
 
 These servers aim to demonstrate MCP features and the TypeScript and Python SDKs.
 
+-
 
 
 ## Official Servers
@@ -19,8 +20,13 @@ Official integrations are maintained by companies building production ready MCP 
 A growing set of community-developed and maintained servers demonstrates various applications of 
 MCP across different domains.
 
+-
+
+
 <!-- Community servers list cleared. Add servers here. -->
 
 ## Clients
 
 A list of clients that support DXT (so far only Claude Desktop)
+
+-
